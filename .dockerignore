@@ -1,0 +1,10 @@
+node_modules
+dist
+web-dist
+server-dist
+bundle.html
+tests/.out
+.parcel-cache
+.env
+secrets
+.git

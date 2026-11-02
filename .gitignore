@@ -1,0 +1,12 @@
+node_modules/
+dist/
+web-dist/
+server-dist/
+bundle.html
+tests/.out/
+.parcel-cache/
+*.log
+.env
+secrets/
+*.tsbuildinfo
+.DS_Store
